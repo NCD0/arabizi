@@ -1,0 +1,28 @@
+{
+  "name": "arabizi",
+  "version": "1.0.0",
+  "description": "A JavaScript library for converting Arabic text to Arabizi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "arabizi",
+    "arabic",
+    "transliteration",
+    "library"
+  ],
+  "author": "NCD0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCD0/arabizi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NCD0/arabizi/issues"
+  },
+  "homepage": "https://github.com/NCD0/arabizi#readme",
+  "dependencies": {
+    "arabizi": "^1.0.0"
+  }
+}
